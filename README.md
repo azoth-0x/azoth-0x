@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=azoth-0x)
 
-![](https://github-stats-alpha.vercel.app/api?username=azoth-0x&cc=000&tc=fff&ic=fff&bc=000)
-
 ### Contributions:
 - SOL: `FSWMZE1BkL6q7VgRUkoHdJ6U4hVja9AEQM4KGWWhvkex`
 - BTC: `bc1pjtymsq7tl70knp9s764vcrcum7zgvawj52mlac2kzva9xtknwnjqll440c`
