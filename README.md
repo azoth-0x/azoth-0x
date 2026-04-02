@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=azoth-0x)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azoth-0x&stats_format=bytes&show_icons=true&theme=transparent)
-
 ### Contributions:
 - SOL: `FSWMZE1BkL6q7VgRUkoHdJ6U4hVja9AEQM4KGWWhvkex`
 - BTC: `bc1pjtymsq7tl70knp9s764vcrcum7zgvawj52mlac2kzva9xtknwnjqll440c`
