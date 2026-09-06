@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=azoth-0x)
 
 ### Contributions:
-- SOL: `FSWMZE1BkL6q7VgRUkoHdJ6U4hVja9AEQM4KGWWhvkex`
-- BTC: `bc1pjtymsq7tl70knp9s764vcrcum7zgvawj52mlac2kzva9xtknwnjqll440c`
-- ETC: `0xa4248e997FD2fEDc016505C74295dE0ef65c845D`
+- SOL: `3GVVU3xfLEi21RLWEQsZ2KfDdwhEL31xA7Q5WatVEW2W`
+- BTC: `bc1qlfkvh509g8rylgua7f4ssuc872peylx0d8z0rc`
+- ETC: `0xcD4900c0aB884291421376493d8d54e7BAA0d0ac`
 
 ~ *We read patterns like one reads poetry, we speak in signs and silences, and we transform data into wisdom with elegance.*
